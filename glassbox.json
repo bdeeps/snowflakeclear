@@ -1,0 +1,113 @@
+{
+  "slug": "snowflakeclear",
+  "box": 239,
+  "date": "2026-12-06",
+  "title": "SnowflakeClear",
+  "question": "How does a snowflake get its shape?",
+  "hook": "Every snowflake is a tiny recording of the weather it fell through. Watch six arms grow the same way, because they all feel the same air.",
+  "thumbText": "HOW SNOWFLAKES FORM",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "snowflake",
+    "snow",
+    "ice",
+    "crystals",
+    "water",
+    "nature",
+    "symmetry",
+    "weather"
+  ],
+  "explainer": [
+    {
+      "title": "It starts with water",
+      "text": "A water molecule is bent, with about 104.5 degrees between its hydrogens. Hydrogen bonds link each molecule to four neighbours, and that frame is built from six-sided rings. So ice crystals are hexagonal."
+    },
+    {
+      "title": "A speck grows",
+      "text": "A crystal starts as a tiny hexagon on a speck of dust. Corners poke into fresher, moister air, catch more vapour and race ahead. That runaway makes branches. The model runs this rule on a hexagonal grid."
+    },
+    {
+      "title": "Temperature picks the shape",
+      "text": "In the 1930s Ukichiro Nakaya grew snow in a cold lab and found shapes flip with temperature and humidity. Roughly: plates near minus 2, needles near minus 5, columns after that, plates and ferns near minus 15."
+    },
+    {
+      "title": "Six arms, one journey",
+      "text": "The arms do not signal each other. The flake is small and travels as one piece, so all six arms meet the same air at the same moment and grow the same way. The shape records its path."
+    },
+    {
+      "title": "No two alike?",
+      "text": "Wilson Bentley found no two flakes the same after photographing thousands from 1885. But alike is not identical, and twins can grow side by side. Nancy Knight's 1988 paper was about near-matches, not exact ones."
+    },
+    {
+      "title": "Clear ice, white snow",
+      "text": "Many snowflakes are broken, rimed or clumped, not neat stars. And snow looks white because countless faces scatter every colour of light, even though each crystal is clear."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Hydrogen bond",
+      "def": "A weak pull between a hydrogen on one water molecule and the oxygen of another."
+    },
+    {
+      "term": "Ice Ih",
+      "def": "The ordinary form of ice, whose oxygen atoms sit in a hexagonal lattice."
+    },
+    {
+      "term": "Six-fold symmetry",
+      "def": "A pattern that looks the same after turning by 60 degrees."
+    },
+    {
+      "term": "Supersaturation",
+      "def": "Air holding more water vapour than it could in balance with ice, which drives crystals to grow."
+    },
+    {
+      "term": "Branching instability",
+      "def": "A bump on a growing crystal reaches fresher vapour, grows faster and sticks out more, so edges break into branches."
+    },
+    {
+      "term": "Cellular automaton",
+      "def": "A grid of cells that each follow the same simple rule using only their neighbours."
+    },
+    {
+      "term": "Habit",
+      "def": "The overall shape type of a crystal, such as plate, column or needle."
+    },
+    {
+      "term": "Nakaya diagram",
+      "def": "A map of crystal shape against temperature and humidity, named for Ukichiro Nakaya."
+    },
+    {
+      "term": "Dendrite",
+      "def": "A branching, fern-like pattern, from the Greek word for tree."
+    },
+    {
+      "term": "Rime",
+      "def": "Ice formed when supercooled cloud droplets freeze onto a crystal."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "snowflakeclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Reiter cellular automaton (algorithm only, implemented from the published description; no code copied)",
+      "license": "Published method, Reiter 2005",
+      "url": "https://ideas.repec.org/a/eee/chsofr/v23y2005i4p1111-1119.html"
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "title": "The history of the snowflake",
+  "tagline": "From a Chinese scholar's six-pointed flowers to cellular models on a hex grid, 2,000 years of asking why snow has six arms.",
+  "intro": "People noticed the six-fold shape of snow long ago. Kepler asked why, microscopes and cameras showed the detail, and a Japanese lab finally grew crystals on demand. Today models on a computer can grow six matching arms from one simple rule.",
+  "eras": [
+    {
+      "id": "see",
+      "name": "Seeing six corners",
+      "from": -135,
+      "to": 1700,
+      "color": "#8ef0ff",
+      "summary": "Scholars noticed the six points. Kepler and Descartes tried to explain them, and Hooke looked closer."
+    },
+    {
+      "id": "draw",
+      "name": "Drawing and photographing",
+      "from": 1820,
+      "to": 1931,
+      "color": "#ffb547",
+      "summary": "Whalers, lords and farmers drew and then photographed thousands of crystals."
+    },
+    {
+      "id": "lab",
+      "name": "Growing snow in the lab",
+      "from": 1935,
+      "to": 1970,
+      "color": "#c49bff",
+      "summary": "In Hokkaido, Nakaya grew crystals on demand and mapped their shapes."
+    },
+    {
+      "id": "modern",
+      "name": "Models and myths",
+      "from": 1988,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Scientists weighed the no-two-alike saying and built models that grow flakes in code."
+    }
+  ],
+  "events": [
+    {
+      "year": -135,
+      "date": "c. 135 BCE (some give 150 BCE)",
+      "era": "see",
+      "art": "scroll",
+      "key": true,
+      "title": "\"Snow flowers are six-pointed\"",
+      "who": "Han Ying",
+      "where": "China",
+      "country": "China",
+      "text": "The Chinese scholar Han Ying wrote that plant flowers usually have five points, but snow flowers always have six. It is the earliest known account of the snowflake's six-fold shape.",
+      "why": "It shows that the six-fold puzzle is more than two thousand years old.",
+      "box": "molecule",
+      "sources": [
+        0,
+        24
+      ]
+    },
+    {
+      "year": 550,
+      "date": "6th century",
+      "era": "see",
+      "art": "quill",
+      "title": "A poet calls snowflakes six-petalled",
+      "who": "Hsiao Tung",
+      "where": "China",
+      "country": "China",
+      "text": "The poet Hsiao Tung described snowflakes as six-petalled. The page that records this gives no more precise date.",
+      "why": "The six-petal idea was already part of how people spoke about snow.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1555,
+      "date": "1555",
+      "era": "see",
+      "art": "quill",
+      "title": "A bishop lists snow shapes",
+      "who": "Olaus Magnus",
+      "where": "Scandinavia",
+      "country": "Sweden",
+      "text": "The Scandinavian bishop Olaus Magnus gave the first known European reference to snow crystal shapes, such as crescents and arrows. The source notes it hardly counts as a scientific first.",
+      "why": "Europeans began writing about the varied shapes of snow.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1591,
+      "date": "1591",
+      "era": "see",
+      "art": "telescope",
+      "title": "Harriot spots the six-fold symmetry",
+      "who": "Thomas Harriot",
+      "where": "England",
+      "country": "England",
+      "text": "Thomas Harriot correctly noted the six-fold symmetry of snow crystals, according to the SnowCrystals.com history.",
+      "why": "An early scientific observation of the symmetry that Kepler would try to explain.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1611,
+      "date": "1611",
+      "era": "see",
+      "art": "snowflake",
+      "key": true,
+      "title": "Kepler asks why snow has six corners",
+      "who": "Johannes Kepler",
+      "where": "Prague / Frankfurt",
+      "country": "Holy Roman Empire",
+      "text": "Kepler wrote a short New Year's gift for his patron asking why snowflakes have six points. He compared the shape to tightly packed spheres and honeycomb cells. He found no firm answer and ended the essay open.",
+      "why": "It was the first scientific attempt to explain the symmetry, and an early step toward crystallography.",
+      "box": "molecule",
+      "sources": [
+        4,
+        0
+      ]
+    },
+    {
+      "year": 1637,
+      "date": "1637 (observed 1635)",
+      "era": "see",
+      "art": "eye",
+      "key": true,
+      "title": "Descartes describes snow crystals in detail",
+      "who": "René Descartes",
+      "where": "Amsterdam and the Netherlands",
+      "country": "Netherlands",
+      "text": "In Les Météores, Descartes gave a detailed account based on his own observations of snow, including capped columns and unusual twelve-rayed stars. His drawings were weaker than his words. He could not explain the six-fold symmetry.",
+      "why": "It was the first detailed study of snow crystal structure.",
+      "box": "types",
+      "sources": [
+        5,
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1665,
+      "date": "1665",
+      "era": "see",
+      "art": "lens",
+      "key": true,
+      "title": "Hooke draws snowflakes under a microscope",
+      "who": "Robert Hooke",
+      "where": "London, England",
+      "country": "England",
+      "text": "In Micrographia, Hooke published engravings of magnified snowflakes (Plate 8). They are stylised, but they are among the first magnified pictures of snow.",
+      "why": "The microscope showed that snow has fine structure, not just a vague star shape.",
+      "box": "grow",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1820,
+      "date": "1820",
+      "era": "draw",
+      "art": "boat",
+      "title": "Scoresby draws snow crystals at sea",
+      "who": "William Scoresby Jr.",
+      "where": "Arctic Ocean",
+      "country": "Britain",
+      "text": "The whaling captain William Scoresby Jr. drew snowflakes in the Arctic and published the drawings in An Account of the Arctic Regions. Sketches found in 2024 at the Whitby Museum show how he made them.",
+      "why": "It gave readers a catalogue of crystal forms, drawn from real observation.",
+      "box": "",
+      "sources": [
+        9,
+        24
+      ]
+    },
+    {
+      "year": 1832,
+      "date": "1832",
+      "era": "draw",
+      "art": "plate",
+      "title": "Doi Toshitsura publishes Sekka zusetsu",
+      "who": "Doi Toshitsura",
+      "where": "Koga Domain",
+      "country": "Japan",
+      "text": "A Japanese lord, Doi Toshitsura, drew 86 snow crystals he had seen through a microscope. He published them in 1832 as Sekka zusetsu, along with 12 figures borrowed from a Dutch book.",
+      "why": "It is an outstanding early catalogue of snow crystal shapes, made outside Europe.",
+      "box": "",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1 February 1879",
+      "era": "draw",
+      "art": "plate",
+      "title": "Flögel photographs snow crystals",
+      "who": "Johann Heinrich Ludwig Flögel",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The University of Regensburg library page says Johann Flögel photographed snow crystals on 1 February 1879, which would make him earlier than Wilson Bentley.",
+      "why": "It shows that Bentley's fame was earned by quantity and persistence, not by being first.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "15 January 1885",
+      "era": "draw",
+      "art": "boxcamera",
+      "key": true,
+      "title": "Bentley takes his first snow crystal photograph",
+      "who": "Wilson A. Bentley",
+      "where": "Jericho, Vermont",
+      "country": "United States",
+      "text": "A Vermont farmer, Wilson Bentley, fixed a camera to a microscope and photographed a snow crystal. He went on to photograph well over 5,000.",
+      "why": "His photographs made the beauty and variety of snow crystals known to the public.",
+      "box": "myths",
+      "sources": [
+        12,
+        13,
+        11
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1925",
+      "era": "draw",
+      "art": "quill",
+      "title": "Bentley: \"no one design was ever repeated\"",
+      "who": "Wilson A. Bentley",
+      "where": "Jericho, Vermont",
+      "country": "United States",
+      "text": "In a 1925 report, Bentley wrote that every crystal was a masterpiece of design and no design was ever repeated. This is the source of the saying that no two snowflakes are alike.",
+      "why": "The saying became a popular myth, but he only reported what he had photographed.",
+      "box": "myths",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "November 1931",
+      "era": "draw",
+      "art": "scroll",
+      "title": "Bentley and Humphreys publish Snow Crystals",
+      "who": "Wilson A. Bentley and W. J. Humphreys",
+      "where": "New York, USA",
+      "country": "United States",
+      "text": "The book Snow Crystals, with Bentley's photographs, came out in November 1931. Bentley died a few weeks later, on 23 December, at his family farm.",
+      "why": "It preserved his life's work for scientists and the public.",
+      "box": "",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "lab",
+      "art": "thermometer",
+      "title": "Nakaya opens a low temperature laboratory",
+      "who": "Ukichiro Nakaya",
+      "where": "Sapporo, Hokkaido",
+      "country": "Japan",
+      "text": "Ukichiro Nakaya, who had joined Hokkaido University in 1930, opened a Low Temperature Science Laboratory in 1935 to study snow in the lab.",
+      "why": "It was a place where snow crystals could be grown and studied on demand.",
+      "box": "",
+      "sources": [
+        14,
+        0
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "12 March 1936",
+      "era": "lab",
+      "art": "flask",
+      "key": true,
+      "title": "The first artificial snow crystal",
+      "who": "Ukichiro Nakaya",
+      "where": "Sapporo, Hokkaido",
+      "country": "Japan",
+      "text": "Nakaya grew the first artificial snow crystal, on a single rabbit hair in cold, humid air. It showed that crystals could be grown under control.",
+      "why": "Controlled experiments could finally show how conditions set the shape.",
+      "box": "nakaya",
+      "sources": [
+        0,
+        14
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1930s onward",
+      "era": "lab",
+      "art": "thermometer",
+      "key": true,
+      "title": "The Nakaya diagram",
+      "who": "Ukichiro Nakaya and colleagues",
+      "where": "Sapporo, Hokkaido",
+      "country": "Japan",
+      "text": "Nakaya and his collaborators grew crystals at different temperatures and humidities and found that shape flips between plates, columns and needles as temperature changes. The result is called the Nakaya or morphology diagram.",
+      "why": "It turned the question of why snowflakes differ into a map you can read.",
+      "box": "nakaya",
+      "sources": [
+        1,
+        23,
+        3
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "lab",
+      "art": "scroll",
+      "title": "Snow Crystals: Natural and Artificial",
+      "who": "Ukichiro Nakaya",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "Japan",
+      "text": "Nakaya's book summarising his work was published by Harvard University Press. In it, he describes snow crystals as letters sent from heaven.",
+      "why": "It took Japanese snow research to an international audience.",
+      "box": "",
+      "sources": [
+        14,
+        24
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "mid-1960s",
+      "era": "lab",
+      "art": "person",
+      "title": "Nancy Knight teaches in Hokkaido",
+      "who": "Nancy Knight",
+      "where": "Sapporo, Hokkaido",
+      "country": "United States",
+      "text": "Nancy Knight, later a snow and ice scientist at NCAR, spent about two years at Hokkaido University in the mid-1960s. There she taught English and helped Japanese scientists to prepare their papers in English.",
+      "why": "It links the Japanese snow school to later American work.",
+      "box": "",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "1966",
+      "era": "lab",
+      "art": "snowflake",
+      "key": true,
+      "title": "Magono and Lee classify natural snow crystals",
+      "who": "Choji Magono and Chung Woo Lee",
+      "where": "Sapporo, Hokkaido",
+      "country": "Japan",
+      "text": "Magono and Lee published a meteorological classification of natural snow crystals in the Journal of the Faculty of Science at Hokkaido University. Their scheme lists about 80 shapes in eight main groups.",
+      "why": "It gave scientists shared names for snow crystal types.",
+      "box": "types",
+      "sources": [
+        15,
+        16,
+        3
+      ]
+    },
+    {
+      "year": 1988,
+      "date": "1988",
+      "era": "modern",
+      "art": "lens",
+      "key": true,
+      "title": "\"No Two Alike?\"",
+      "who": "Nancy Knight",
+      "where": "Boulder, Colorado",
+      "country": "United States",
+      "text": "Nancy Knight published a paper in the Bulletin of the American Meteorological Society about two nearly matching hollow crystals from a Wisconsin storm. She did not say they were identical, but many people took the title that way. Libbrecht later grew lab twins that are close, not exact.",
+      "why": "It showed how alike and identical get mixed up, and put a figure on the old myth.",
+      "box": "myths",
+      "sources": [
+        17,
+        18,
+        11,
+        2
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2005",
+      "era": "modern",
+      "art": "computer",
+      "key": true,
+      "title": "Reiter publishes a cellular model of snow growth",
+      "who": "Clifford Reiter",
+      "where": "Easton, Pennsylvania",
+      "country": "United States",
+      "text": "Clifford Reiter, at Lafayette College, published a simple two-parameter cellular automaton on a hexagonal grid. It makes plates, stars and especially realistic dendrites.",
+      "why": "Even a very simple rule can grow flakes with six matching arms.",
+      "box": "grow",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "8 March 2005",
+      "era": "modern",
+      "art": "molecule",
+      "title": "Libbrecht reviews the physics of snow crystals",
+      "who": "Kenneth G. Libbrecht",
+      "where": "Pasadena, California",
+      "country": "United States",
+      "text": "Libbrecht's review in Reports on Progress in Physics treats snow crystals as a case study in growth from vapour. It covers branching, surface structure and the way shape changes with temperature.",
+      "why": "It brought snow crystal growth into the mainstream of crystal physics.",
+      "box": "",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "November 2007",
+      "era": "modern",
+      "art": "cell",
+      "title": "Gravner and Griffeath model snow in 3D",
+      "who": "Janko Gravner and David Griffeath",
+      "where": "Davis and Urbana, USA",
+      "country": "United States",
+      "text": "Gravner and Griffeath posted a three-dimensional cellular model, mixing vapour diffusion, direction-dependent attachment and a semi-liquid boundary layer. Their virtual crystals look like many real flakes.",
+      "why": "It showed that thickness and ribbing can be modelled too, not just flat outlines.",
+      "box": "",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "October 2008",
+      "era": "modern",
+      "art": "waterdrop",
+      "title": "Libbrecht proposes why habit flips with temperature",
+      "who": "Kenneth G. Libbrecht",
+      "where": "Pasadena, California",
+      "country": "United States",
+      "text": "Libbrecht described a mechanism combining surface melting and impurities as a candidate explanation for the flip between plates and columns, which he called a 60-year-old mystery. He said that more work is needed.",
+      "why": "The reason shape flips with temperature is still being researched.",
+      "box": "",
+      "sources": [
+        23,
+        1
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2024",
+      "era": "modern",
+      "art": "scroll",
+      "title": "Scoresby's working sketches found",
+      "who": "Fiona Barnard",
+      "where": "Whitby, England",
+      "country": "England",
+      "text": "A researcher at Whitby Museum reported a folded sheet of Scoresby's sketches of snowflake segments, found in the museum's archive. Pencil marks link them to May 1817 log entries and to drawings in his 1820 book.",
+      "why": "Archives can still turn up how the first snow catalogues were made.",
+      "box": "",
+      "sources": [
+        9
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest known account of six-pointed snow",
+      "value": "c. 135 BCE",
+      "who": "Han Ying, China"
+    },
+    {
+      "label": "First artificial snow crystal",
+      "value": "1936",
+      "who": "Ukichiro Nakaya, Japan"
+    },
+    {
+      "label": "First snowflake photomicrograph by Bentley",
+      "value": "1885",
+      "who": "Wilson A. Bentley, United States"
+    },
+    {
+      "label": "Doi Toshitsura's book of microscope drawings",
+      "value": "1832",
+      "who": "Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Han Ying",
+      "life": "",
+      "role": "Scholar",
+      "from": "China",
+      "note": "Wrote that snow flowers are six-pointed."
+    },
+    {
+      "name": "Johannes Kepler",
+      "life": "",
+      "role": "Mathematician and astronomer",
+      "from": "Holy Roman Empire",
+      "note": "Asked in 1611 why snowflakes have six corners."
+    },
+    {
+      "name": "René Descartes",
+      "life": "1596 – 1650",
+      "role": "Philosopher and natural philosopher",
+      "from": "France",
+      "note": "Described snow crystals in detail in Les Météores."
+    },
+    {
+      "name": "Robert Hooke",
+      "life": "1635 – 1703",
+      "role": "Natural philosopher",
+      "from": "England",
+      "note": "Published the first magnified snowflake pictures."
+    },
+    {
+      "name": "Doi Toshitsura",
+      "life": "1789 – 1848",
+      "role": "Lord of the Koga Domain and amateur scientist",
+      "from": "Japan",
+      "note": "Drew 86 crystals through a microscope."
+    },
+    {
+      "name": "Wilson A. Bentley",
+      "life": "1865 – 1931",
+      "role": "Farmer and photographer",
+      "from": "United States",
+      "note": "Photographed more than 5,000 snow crystals."
+    },
+    {
+      "name": "Ukichiro Nakaya",
+      "life": "1900 – 1962",
+      "role": "Physicist",
+      "from": "Japan",
+      "note": "Grew the first artificial snow crystals and mapped their shapes."
+    },
+    {
+      "name": "Choji Magono",
+      "life": "",
+      "role": "Meteorologist",
+      "from": "Japan",
+      "note": "Co-author of the 1966 classification."
+    },
+    {
+      "name": "Chung Woo Lee",
+      "life": "",
+      "role": "Meteorologist",
+      "from": "Hokkaido University",
+      "note": "Co-author of the 1966 classification."
+    },
+    {
+      "name": "Nancy Knight",
+      "life": "",
+      "role": "Atmospheric scientist at NCAR",
+      "from": "United States",
+      "note": "Wrote No Two Alike? in 1988. She died in 2011."
+    },
+    {
+      "name": "Kenneth G. Libbrecht",
+      "life": "",
+      "role": "Physicist at Caltech",
+      "from": "United States",
+      "note": "Grows snow crystals in the lab and runs SnowCrystals.com."
+    },
+    {
+      "name": "Clifford Reiter",
+      "life": "",
+      "role": "Mathematician at Lafayette College",
+      "from": "United States",
+      "note": "Published the cellular model used in this box."
+    }
+  ],
+  "series": [
+    {
+      "id": "forms",
+      "title": "How many different forms were drawn or classified",
+      "unit": "forms",
+      "log": true,
+      "after": "draw",
+      "caption": "Counts of crystal forms in a few key works. They are counts of drawings or types, so they are not strictly comparable.",
+      "points": [
+        {
+          "year": 1637,
+          "value": 10,
+          "label": "Descartes' tableau: ten crystal forms"
+        },
+        {
+          "year": 1832,
+          "value": 86,
+          "label": "Doi Toshitsura: 86 microscope drawings"
+        },
+        {
+          "year": 1966,
+          "value": 80,
+          "label": "Magono and Lee: about 80 types"
+        }
+      ]
+    },
+    {
+      "id": "bentley",
+      "title": "Snow crystals photographed by Bentley",
+      "unit": "photographs",
+      "log": true,
+      "after": "draw",
+      "caption": "From his first photograph to well over 5,000 by his death in 1931.",
+      "points": [
+        {
+          "year": 1885,
+          "value": 1,
+          "label": "His first snow crystal photograph"
+        },
+        {
+          "year": 1931,
+          "value": 5000,
+          "label": "More than 5,000 photographed"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Bentley photographed well over 5,000 crystals and never found two that matched.",
+    "Kepler's snowflake essay was a New Year's gift to a friend and patron.",
+    "Nakaya grew his first artificial crystal on a rabbit hair.",
+    "Reiter's model has no random numbers, so the same settings always grow the same flake."
+  ],
+  "sources": [
+    {
+      "title": "Snowflake History",
+      "publisher": "SnowCrystals.com (Kenneth Libbrecht, Caltech)",
+      "url": "http://www.snowcrystals.com/history/history.html"
+    },
+    {
+      "title": "Snow Crystal Morphology Diagram",
+      "publisher": "SnowCrystals.com (Kenneth Libbrecht, Caltech)",
+      "url": "http://www.snowcrystals.com/morphology/morphology.html"
+    },
+    {
+      "title": "Identical-twin snowflakes",
+      "publisher": "SnowCrystals.com (Kenneth Libbrecht, Caltech)",
+      "url": "http://www.snowcrystals.com/identicaltwins/identicaltwins.html"
+    },
+    {
+      "title": "Guide to Snowflakes",
+      "publisher": "SnowCrystals.com (Kenneth Libbrecht, Caltech)",
+      "url": "http://www.snowcrystals.com/guide/guide.html"
+    },
+    {
+      "title": "Johannes Kepler on Snowflakes, or what to give someone who has everything",
+      "publisher": "St Edmund Hall, University of Oxford (Library, Arts & Archives blog)",
+      "url": "https://www.seh.ox.ac.uk/blog/johannes-kepler-on-snowflakes"
+    },
+    {
+      "title": "Early Discoverers XXXI: Descartes' Observations on the Amsterdam Snowfalls of 4, 5, 6 and 9 February 1635 (F. C. Frank, Journal of Glaciology 13(69), 1974)",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/product/34E9453D45C46A9D3B77A1A881610922/core-reader"
+    },
+    {
+      "title": "René Descartes (virtual exhibition \"Kristalliner Schnee\")",
+      "publisher": "University of Regensburg Library",
+      "url": "https://www.uni-regensburg.de/bibliothek/ub/veranstaltungen/virtuelle-ausstellungen/schnee/kristalliner-schnee/rene-descartes"
+    },
+    {
+      "title": "Frozen matter (Micrographia, Plate 8, 1665), image RS.6238",
+      "publisher": "Royal Society Picture Library",
+      "url": "https://pictures.royalsociety.org/image-rs-6238"
+    },
+    {
+      "title": "Robert Hooke, Micrographia (book exhibit)",
+      "publisher": "University of Illinois Urbana-Champaign",
+      "url": "https://xray-exhibit.scs.illinois.edu/books/hooke.php"
+    },
+    {
+      "title": "Discovery of some initial sketches and notes for William Scoresby Junior's An Account of the Arctic Regions (F. L. Barnard, Polar Record 60, 2024)",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/product/3AE8EC57FFD98660E5E4AE29169BF9E8/core-reader"
+    },
+    {
+      "title": "Sekka zusetsu (Illustrations of snow crystals)",
+      "publisher": "National Diet Library, Japan",
+      "url": "https://www.ndl.go.jp/en/imagebank/theme/sekkazusetsu"
+    },
+    {
+      "title": "Wilson Bentley (virtual exhibition \"Kristalliner Schnee\")",
+      "publisher": "University of Regensburg Library",
+      "url": "https://www.uni-regensburg.de/bibliothek/ub/veranstaltungen/virtuelle-ausstellungen/schnee/kristalliner-schnee/wilson-bentley"
+    },
+    {
+      "title": "Wilson A. Bentley (1865-1931), biography",
+      "publisher": "Jericho Historical Society (snowflakebentley.com)",
+      "url": "https://snowflakebentley.com/biography"
+    },
+    {
+      "title": "The Snowflake Man of Vermont",
+      "publisher": "The Public Domain Review",
+      "url": "https://publicdomainreview.org/2011/02/14/the-snowflake-man-of-vermont/"
+    },
+    {
+      "title": "Ukichiro Nakaya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ukichiro_Nakaya"
+    },
+    {
+      "title": "Meteorological Classification of Natural Snow Crystals (C. Magono and C. W. Lee), J. Fac. Sci. Hokkaido Univ. Ser. 7, 2(4), 321-335, 1966",
+      "publisher": "Hokkaido University (HUSCAP repository)",
+      "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/8672"
+    },
+    {
+      "title": "Snowflake",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Snowflake"
+    },
+    {
+      "title": "Nancy Knight: a life of a singular scientist",
+      "publisher": "UCAR / NCAR News",
+      "url": "https://news.ucar.edu/5025/nancy-knight-life-singular-scientist"
+    },
+    {
+      "title": "How can they be sure no two snowflakes are alike?",
+      "publisher": "The Straight Dope (Cecil Adams)",
+      "url": "https://www.straightdope.com/columns/read/907/how-can-they-be-sure-no-two-snowflakes-are-alike/"
+    },
+    {
+      "title": "A Local Model for Snow Crystal Growth (abstract page)",
+      "publisher": "Lafayette College (Clifford Reiter)",
+      "url": "https://webbox.lafayette.edu/~reiterc/abstracts/mv_2005a.html"
+    },
+    {
+      "title": "A local cellular model for snow crystal growth, Chaos, Solitons & Fractals 23(4), 2005",
+      "publisher": "IDEAS / RePEc (Elsevier record)",
+      "url": "https://ideas.repec.org/a/eee/chsofr/v23y2005i4p1111-1119.html"
+    },
+    {
+      "title": "The physics of snow crystals, Rep. Prog. Phys. 68, 855 (2005)",
+      "publisher": "IOP Publishing",
+      "url": "https://iopscience.iop.org/article/10.1088/0034-4885/68/4/R03"
+    },
+    {
+      "title": "Modeling snow crystal growth III: three-dimensional snowfakes (arXiv:0711.4020)",
+      "publisher": "arXiv, Cornell University",
+      "url": "https://arxiv.org/abs/0711.4020"
+    },
+    {
+      "title": "Crystal Growth in the Presence of Surface Melting and Impurities: An Explanation of Snow Crystal Growth Morphologies (K. G. Libbrecht)",
+      "publisher": "arXiv (ar5iv)",
+      "url": "https://ar5iv.labs.arxiv.org/html/0810.0689"
+    },
+    {
+      "title": "Timeline of snowflake research",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_snowflake_research"
+    }
+  ]
+}
